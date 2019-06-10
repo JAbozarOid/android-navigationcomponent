@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidNavigationComponent</string>
+    <string name="home">Home</string>
+    <string name="cart">Cart</string>
+    <string name="shop">Shop</string>
+    <string name="about_us">about us</string>
+    <string name="product_desc">We empower small and medium-sized bussiness to reach millions of customers with a number of programmers that help boost their revenue, reach and productivity</string>
+    <string name="product_count">Number of products: 0</string>
+</resources>
